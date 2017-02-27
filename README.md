@@ -1,2 +1,3 @@
 # AndroidPlaceholderChecker
 用于检查安卓项目中翻译文案的占位符的问题,包括占位符错误,数量不同,种类不同
+这是一个eclipse工程,请用eclipse打开,自动读取桌面名字叫xml的文件夹,可以递归多级的读取,具体可以看代码.
